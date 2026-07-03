@@ -21,5 +21,5 @@ It works by using a browser extension that allows you to edit websites like a fi
 | Unshit | A minimalist focused web made for people who want to make digital detoxes. | <a href="https://github.com/luanderfarias/minet">Github</a> |
 
 ## Support
-If you have any problems you can open a issue or contact our team on our Discord.
+If you have any problems you can open a issue or contact our team on our <a href="https://discord.gg/jDASpgt68t">Discord.</a>
 > We're not affiliate to Firefox®, Chrome®, Figma®, Penpot® or any affiliates mentioned on this README.
