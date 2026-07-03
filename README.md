@@ -15,9 +15,10 @@ It works by using a browser extension that allows you to edit websites like a fi
 - Re-open Chrome if needed.
 
 ## Recommended projects
-~ Unshit: A config focused on removing garbage and bloat from webpages.
-
-~ Minet: A minimalist focused web made for people who want to make digital detoxes.
+| Project | Description | Link/Website |
+| :------ | :-------- | :------------------------- |
+| Unshit | A config focused on removing garbage and bloat from webpages. | <a href="https://github.com/luanderfarias/unshit">Github</a> |
+| Unshit | A minimalist focused web made for people who want to make digital detoxes. | <a href="https://github.com/luanderfarias/minet">Github</a> |
 
 ## Support
 If you have any problems you can open a issue or contact our team on our Discord.
