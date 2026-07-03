@@ -2,7 +2,7 @@
 Personet is a web modification project that lets you make websites more fit to you.
 
 It works by using a browser extension that allows you to edit websites like a figma/penpot file or load a .json from another project made using personet.
-> Personet works in firefox and chrome including all alternatives
+> Personet works on firefox, chrome and all alternatives of them.
 
 ## Installation
 ~ Firefox
